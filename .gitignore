@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.npm-cache/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+playwright-report/
+test-results/
+.tmp/
+artifacts/
